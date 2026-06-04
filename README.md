@@ -157,4 +157,4 @@ Redistribution, commercial use, reproduction of source files, diagrams, images, 
 
 For detailed explanation, circuit diagrams, code walkthrough, troubleshooting guide, and complete theory, visit:
 
-[https://playwithcircuit.com](https://playwithcircuit.com/how-to-build-a-weather-monitoring-system-using-esp32-s3-smart-display-and-lvgl/)
+https://playwithcircuit.com/how-to-build-a-weather-monitoring-system-using-esp32-s3-smart-display-and-lvgl/
